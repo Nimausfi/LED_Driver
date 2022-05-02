@@ -1,6 +1,6 @@
 # LED Driver
 
-The following design is implemented on Arty Z7-20 board.
+The following design is implemented on Arty Z7-20 FPGA board in Vivado 2019.1.
 
 <img src="LED_Driver.jpg" width=600>
 
