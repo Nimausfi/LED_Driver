@@ -1,4 +1,4 @@
-# LED_Driver
+# LED Driver
 
 The following design is implemented on Arty Z7-20 board.
 
